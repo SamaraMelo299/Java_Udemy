@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Estrutura_Condicional/Estrutura_Condicional.iml" filepath="$PROJECT_DIR$/Estrutura_Condicional/Estrutura_Condicional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estrutura_For/Estrutura_For.iml" filepath="$PROJECT_DIR$/Estrutura_For/Estrutura_For.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" filepath="$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" />
@@ -9,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Udemy.iml" filepath="$PROJECT_DIR$/.idea/Java_Udemy.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Static_Members.iml" filepath="$PROJECT_DIR$/Static_Members.iml" />
+>>>>>>> 6679707c299984db75c1c1ed6835551cdceaf71b
     </modules>
   </component>
 </project>
