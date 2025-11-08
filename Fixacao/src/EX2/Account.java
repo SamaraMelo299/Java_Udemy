@@ -11,10 +11,10 @@ public class Account {
         this.holder = holder;
     }
 
-    public Account(int numberAccount, String holder,  double balance) {
+    public Account(int numberAccount, String holder, double initialDeposit) {
         this.numberAccount = numberAccount;
         this.holder = holder;
-        this.balance = balance;
+        deposit(initialDeposit);
     }
 
     public Account() {
