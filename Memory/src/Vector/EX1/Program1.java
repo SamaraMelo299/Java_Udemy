@@ -1,7 +1,9 @@
+package Vector.EX1;
+
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Main {
+public class Program1 {
     public static void main (String[] args) {
 
         Locale.setDefault(Locale.US);
