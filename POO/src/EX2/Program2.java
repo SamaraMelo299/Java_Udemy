@@ -1,0 +1,95 @@
+<<<<<<< HEAD
+package EX2;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program2 {
+
+    public static void main(String[] args) {
+
+        Locale.setDefault(Locale.US);
+        Scanner sc = new Scanner(System.in);
+
+        Product product = new Product();
+        System.out.println("Enter product data: ");
+
+        System.out.print("Name: ");
+        product.name = sc.nextLine();
+
+        System.out.print("Price: ");
+        product.price = sc.nextDouble();
+
+        System.out.print("Quantity in stock: ");
+        product.quantity = sc.nextInt();
+
+        System.out.println();
+        System.out.println("Product data: " + product);
+
+        System.out.println();
+        System.out.println("Enter the number of products to be added in stock: ");
+        int quantity = sc.nextInt();
+        product.addProducts(quantity);
+
+        System.out.println();
+        System.out.println("Updated data: " + product);
+
+        System.out.println();
+        System.out.println("Enter the number of products to be removed in stock: ");
+        quantity = sc.nextInt();
+        product.removeProducts(quantity);
+
+        System.out.println();
+        System.out.println("Updated data: " + product);
+
+        sc.close();
+    }
+}
+=======
+package EX2;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program2 {
+
+    public static void main(String[] args) {
+
+        Locale.setDefault(Locale.US);
+        Scanner sc = new Scanner(System.in);
+
+        Product product = new Product();
+        System.out.println("Enter product data: ");
+
+        System.out.print("Name: ");
+        product.name = sc.nextLine();
+
+        System.out.print("Price: ");
+        product.price = sc.nextDouble();
+
+        System.out.print("Quantity in stock: ");
+        product.quantity = sc.nextInt();
+
+        System.out.println();
+        System.out.println("Product data: " + product);
+
+        System.out.println();
+        System.out.println("Enter the number of products to be added in stock: ");
+        int quantity = sc.nextInt();
+        product.addProducts(quantity);
+
+        System.out.println();
+        System.out.println("Updated data: " + product);
+
+        System.out.println();
+        System.out.println("Enter the number of products to be removed in stock: ");
+        quantity = sc.nextInt();
+        product.removeProducts(quantity);
+
+        System.out.println();
+        System.out.println("Updated data: " + product);
+
+        sc.close();
+    }
+}
+>>>>>>> 5f2e7b7b2d47634883205b21f4970b7124877c13
