@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Vector.iml" filepath="$PROJECT_DIR$/Vector.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Memory.iml" filepath="$PROJECT_DIR$/Memory.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Condicional/Estrutura_Condicional.iml" filepath="$PROJECT_DIR$/Estrutura_Condicional/Estrutura_Condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_For/Estrutura_For.iml" filepath="$PROJECT_DIR$/Estrutura_For/Estrutura_For.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" filepath="$PROJECT_DIR$/Estrutura_Sequencial/Estrutura_Sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura_While/Estrutura_While.iml" filepath="$PROJECT_DIR$/Estrutura_While/Estrutura_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Udemy.iml" filepath="$PROJECT_DIR$/.idea/Java_Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Static_Members.iml" filepath="$PROJECT_DIR$/Static_Members.iml" />
+>>>>>>> 6679707c299984db75c1c1ed6835551cdceaf71b
+>>>>>>> 3a1aaac60e8d3024c824df91b8cae1e04d217ce3
+>>>>>>> 9307bf8e1a9297687fe16603c0b468f579ae6c0e
+    </modules>
+  </component>
+</project>
