@@ -1,4 +1,4 @@
-package Enumeration.entities;
+package Composition.ex3.entities_enums;
 
 public enum OrderStatus {
 

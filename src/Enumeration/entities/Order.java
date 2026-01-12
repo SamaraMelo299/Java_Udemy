@@ -1,4 +1,4 @@
-package Enumeration.ex1.entities;
+package Enumeration.entities;
 
 import java.util.Date;
 

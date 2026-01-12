@@ -1,7 +1,7 @@
-package Enumeration.ex1.application;
+package Enumeration.application;
 
-import Enumeration.ex1.entities.Order;
-import Enumeration.ex1.entities.OrderStatus;
+import Enumeration.entities.Order;
+import Enumeration.entities.OrderStatus;
 
 import java.util.Date;
 
