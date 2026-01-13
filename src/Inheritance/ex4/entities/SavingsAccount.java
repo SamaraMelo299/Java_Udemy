@@ -1,4 +1,4 @@
-package Heritage.ex2.entities;
+package Inheritance.ex4.entities;
 
 public class SavingsAccount extends Account {
 

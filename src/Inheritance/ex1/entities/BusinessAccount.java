@@ -1,4 +1,4 @@
-package Heritage.ex1.entities;
+package Inheritance.ex1.entities;
 
 public class BusinessAccount extends Account {
 

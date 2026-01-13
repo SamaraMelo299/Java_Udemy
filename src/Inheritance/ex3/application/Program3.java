@@ -1,7 +1,7 @@
-package Heritage.ex3.application;
+package Inheritance.ex3.application;
 
-import Heritage.ex3.entities.Employee;
-import Heritage.ex3.entities.OutsourcedEmployee;
+import Inheritance.ex3.entities.Employee;
+import Inheritance.ex3.entities.OutsourcedEmployee;
 
 import java.util.ArrayList;
 import java.util.List;

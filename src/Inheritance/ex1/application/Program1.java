@@ -1,8 +1,8 @@
-package Heritage.ex1.application;
+package Inheritance.ex1.application;
 
-import Heritage.ex1.entities.Account;
-import Heritage.ex1.entities.BusinessAccount;
-import Heritage.ex1.entities.SavingsAccount;
+import Inheritance.ex1.entities.Account;
+import Inheritance.ex1.entities.BusinessAccount;
+import Inheritance.ex1.entities.SavingsAccount;
 
 public class Program1 {
 

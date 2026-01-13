@@ -1,4 +1,4 @@
-package Heritage.ex3.entities;
+package Inheritance.ex3.entities;
 
 public class Employee {
 

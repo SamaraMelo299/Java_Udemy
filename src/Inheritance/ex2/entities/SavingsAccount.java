@@ -1,4 +1,4 @@
-package Heritage.ex1.entities;
+package Inheritance.ex2.entities;
 
 public class SavingsAccount extends Account {
 
@@ -26,7 +26,7 @@ public class SavingsAccount extends Account {
     }
 
     @Override
-    public void withdraw(Double amount) {
+    public void withdraw(double amount) {
         balance -= amount;
     }
 
