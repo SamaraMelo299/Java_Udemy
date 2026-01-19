@@ -1,6 +1,6 @@
 package Interfaces.ex1.model.services;
 
-public class BrazilTaxService {
+public class BrazilTaxService implements TaxServices {
 
     public double tax(double amount) {
         if (amount <= 100.0) {
