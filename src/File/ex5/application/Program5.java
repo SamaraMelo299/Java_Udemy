@@ -17,5 +17,6 @@ public class Program5 {
         System.out.println("getName: " + path.getName());
         System.out.println("getParent: " + path.getParent());
         System.out.println("getPath: " + path.getPath());
+        System.out.println("getParentFile: " + path.getParentFile());
     }
 }
