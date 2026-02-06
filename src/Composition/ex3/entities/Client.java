@@ -10,7 +10,6 @@ public class Client {
     public String name;
     public String email;
     public Date birthDate;
-
     public Client() {
     }
 
